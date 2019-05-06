@@ -1,0 +1,8 @@
+/* columns and rows are collectively called 'tracks' */
+
+.container {
+  display: grid;
+  grid-template-columns: 100px auto 200px;
+  grid-template-rows: 200px 100px 400px;  /* the 4th col will resize by itself */
+  grid-gap: 20px;
+}
