@@ -4,7 +4,7 @@
 This repo contains all the exercises for the [CSS Grid](https://cssgrid.io) video course by [Wes Bos](https://wesbos.com).
 
 
-* [starter-files](https://eneax.github.io/learn-css-grid/starter-files)
+* [02-Starter-Files-and-Tooling-Setup](https://eneax.github.io/learn-css-grid/02-Starter-Files-and-Tooling-Setup)
 
 * [fundamentals](https://eneax.github.io/learn-css-grid/fundamentals)
 
