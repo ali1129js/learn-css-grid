@@ -6,48 +6,48 @@ This repo contains all the exercises for the [CSS Grid](https://cssgrid.io) vide
 
 * [02-Starter-Files-and-Tooling-Setup](https://eneax.github.io/learn-css-grid/02-Starter-Files-and-Tooling-Setup)
 
-* [fundamentals](https://eneax.github.io/learn-css-grid/fundamentals)
+* [03-CSS-Grid-Fundamentals](https://eneax.github.io/learn-css-grid/03-CSS-Grid-Fundamentals)
 
-* [dev-tools](https://eneax.github.io/learn-css-grid/dev-tools)
+* [04-CSS-Grid-DevTools](https://eneax.github.io/learn-css-grid/04-CSS-Grid-DevTools)
 
-* [implicit-vs-explicit](https://eneax.github.io/learn-css-grid/implicit-vs-explicit)
+* [05-CSS-Grid-Implicit-vs-Explicit-Tracks](https://eneax.github.io/learn-css-grid/05-CSS-Grid-Implicit-vs-Explicit-Tracks)
 
-* [auto-flow](https://eneax.github.io/learn-css-grid/auto-flow)
+* [06-CSS-grid-auto-flow-Explained](https://eneax.github.io/learn-css-grid/06-CSS-grid-auto-flow-Explained)
 
-* [sizing-tracks](https://eneax.github.io/learn-css-grid/sizing-tracks)
+* [07-Sizing-tracks-in-CSSGrid](https://eneax.github.io/learn-css-grid/07-Sizing-tracks-in-CSSGrid)
 
-* [repeat](https://eneax.github.io/learn-css-grid/repeat)
+* [08-CSSGrid-repeat-function](https://eneax.github.io/learn-css-grid/08-CSSGrid-repeat-function)
 
-* [sizing-items](https://eneax.github.io/learn-css-grid/sizing-items)
+* [09-Sizing-Grid-Items](https://eneax.github.io/learn-css-grid/09-Sizing-Grid-Items)
 
-* [placing-items](https://eneax.github.io/learn-css-grid/placing-items)
+* [10-Placing-Grid-Items](https://eneax.github.io/learn-css-grid/10-Placing-Grid-Items)
 
-* [spanning-placing](https://eneax.github.io/learn-css-grid/spanning-placing)
+* [11-Spanning-and-Placing-Cardio](https://eneax.github.io/learn-css-grid/11-Spanning-and-Placing-Cardio)
 
-* [autofit-autofill](https://eneax.github.io/learn-css-grid/autofit-autofill)
+* [12-auto-fit-and-auto-fill](https://eneax.github.io/learn-css-grid/12-auto-fit-and-auto-fill)
 
-* [minmax](https://eneax.github.io/learn-css-grid/minmax)
+* [13-Using-minmax()-for-Responsive-Grids](https://eneax.github.io/learn-css-grid/13-Using-minmax()-for-Responsive-Grids)
 
-* [areas](https://eneax.github.io/learn-css-grid/areas)
+* [14-Grid-Template-Areas](https://eneax.github.io/learn-css-grid/14-Grid-Template-Areas)
 
-* [naming-lines](https://eneax.github.io/learn-css-grid/naming-lines)
+* [15-Naming-Lines-in-CSS-Grid](https://eneax.github.io/learn-css-grid/15-Naming-Lines-in-CSS-Grid)
 
-* [dense](https://eneax.github.io/learn-css-grid/dense)
+* [16-grid-auto-flow-dense-Block-Fitting](https://eneax.github.io/learn-css-grid/16-grid-auto-flow-dense-Block-Fitting)
 
-* [alignment-centering](https://eneax.github.io/learn-css-grid/alignment-centering)
+* [17-CSSGrid-Alignment+Centering](https://eneax.github.io/learn-css-grid/17-CSSGrid-Alignment+Centering)
 
-* [order](https://eneax.github.io/learn-css-grid/order)
+* [18-Re-ordering-Grid-Items](https://eneax.github.io/learn-css-grid/18-Re-ordering-Grid-Items)
 
-* [nesting-grid](https://eneax.github.io/learn-css-grid/nesting-grid)
+* [19-Nesting-Grid-with-Album-Layouts](https://eneax.github.io/learn-css-grid/19-Nesting-Grid-with-Album-Layouts)
 
-* [image-gallery](https://eneax.github.io/learn-css-grid/image-gallery)
+* [20-CSS-Grid-Image-Gallery](https://eneax.github.io/learn-css-grid/20-CSS-Grid-Image-Gallery)
 
-* [flexbox-vs-grid](https://eneax.github.io/learn-css-grid/flexbox-vs-grid)
+* [21-Flexbox-vs-CSSGrid](https://eneax.github.io/learn-css-grid/21-Flexbox-vs-CSSGrid)
 
-* [codepen](https://eneax.github.io/learn-css-grid/codepen)
+* [22-Recreating-Codepen](https://eneax.github.io/learn-css-grid/22-Recreating-Codepen)
 
-* [bootstrappy-grid](https://eneax.github.io/learn-css-grid/bootstrappy-grid)
+* [23-Bootstrappy-Grid-with-CSS-Variables](https://eneax.github.io/learn-css-grid/23-Bootstrappy-Grid-with-CSS-Variables)
 
-* [responsive-website](https://eneax.github.io/learn-css-grid/responsive-website)
+* [24-Responisve-Website](https://eneax.github.io/learn-css-grid/24-Responisve-Website)
 
-* [full-bleed-blog](https://eneax.github.io/learn-css-grid/full-bleed-blog)
+* [25-Full-Bleed-Blog-Layout](https://eneax.github.io/learn-css-grid/25-Full-Bleed-Blog-Layout)
