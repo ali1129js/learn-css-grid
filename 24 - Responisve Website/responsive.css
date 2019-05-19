@@ -12,6 +12,12 @@ img {
   max-width: 100%;
 }
 
+/* Wrapper */
+.wrapper {
+  display: grid;
+  grid-gap: 20px;
+}
+
 .top {
   display: grid;
   grid-gap: 20px;
@@ -68,7 +74,6 @@ img {
 .menu ul {
   list-style: none;
   padding: 0;
-  margin: 20px 0;
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
@@ -111,4 +116,14 @@ img {
 
 .features p {
   color: rgba(0, 0, 0, 0.5);
+}
+
+
+/* About */
+.about {
+  background: white;
+  padding: 50px;
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  align-items: center;
 }
